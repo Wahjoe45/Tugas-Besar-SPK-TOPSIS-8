@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sistem Pendukung Keputusan Pemilihan Smartphone</title>
+	<title>Sistem Pendukung Keputusan Pemilihan Smartphone Metode Topsis</title>
 	<meta property="og:image" content="assets/image/laptop.jpg" />
 	<meta name="description" content="SMAPSIS adalah aplikasi Sistem Pendukung Keputusan Laptop berbasis Metode Topsis">
 	<!--Import Google Icon Font-->
@@ -61,7 +61,7 @@
 							</div>
 				</div>
 			</div>
-			<div class="parallax"><img src="assets/image/pixel.jpg" alt="Laptop"></div>
+			<div class="parallax"><img src="assets/image/phone.jpg" alt="Phone"></div>
 		</div>
 		<!-- Jumbotron End -->
 

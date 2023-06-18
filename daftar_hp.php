@@ -164,11 +164,11 @@ include('koneksi.php');
 												<tr>
 													<th><center>No </center></th>
 													<th><center>Merk HP</center></th>
-													<th><center>Harga HP</center></th>
-													<th><center>RAM HP</center></th>
-													<th><center>Kapasitas Memori HP</center></th>
-													<th><center>Processor HP</center></th>
-													<th><center>Kamera HP</center></th>
+													<th><center>Harga</center></th>
+													<th><center>RAM</center></th>
+													<th><center>Kapasitas Memori</center></th>
+													<th><center>Processor</center></th>
+													<th><center>Kamera</center></th>
 													<th><center>Hapus</center></th>
 												</tr>
 											</thead>
